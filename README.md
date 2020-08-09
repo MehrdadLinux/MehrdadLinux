@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi MehrdadLinux is here 👋
 <a href="https://github.com/MehrdadLinux">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MehrdadLinux&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<a href="https://github.com/MehrdadLinux">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrdadLinux" />
+</a>
 <!--
 **MehrdadLinux/MehrdadLinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
