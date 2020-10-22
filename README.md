@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Google**
 
-### Blogs posts
+### i'm interested in:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
