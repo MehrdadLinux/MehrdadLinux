@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrdadlinux" alt="mehrdadlinux" /> </p>
 
-- 🔭 I’m currently working on **Machine learning in Security**
-
-- 🌱 I’m currently learning **Deep Learning**
+- 🔭 I’m currently working on **AI in Security**
 
 - 👨‍💻 All of my projects are available at [http://blog.opsnit.com/](http://blog.opsnit.com/)
 
