@@ -2,7 +2,11 @@
   <span>
     <img src="https://img.icons8.com/external-itim2101-blue-itim2101/64/000000/external-rocket-launch-space-and-galaxy-itim2101-blue-itim2101.png"/>
   </span>  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MehrdadLinux </h1>
-<h3 align="center">I'm a Security Analyst </h3>
+    </div>
+    <div align=center>
+color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mehrdad+Linux;Computer+Science+Security+Analyst;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast"/>
+    </div>
+    <div align=center>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrdadlinux" alt="mehrdadlinux" /> </p>
 
