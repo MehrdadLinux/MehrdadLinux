@@ -37,6 +37,7 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=mehrdadlinux&show_icons=true" alt="mehrdadlinux"  width="450" />
 </p>
 <p align="center">
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href="https://codepen.io/mehrdadlinux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/mehrdadlinux" height="30" width="30" /></a>
 <a href="https://dev.to/mehrdadlinux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/mehrdadlinux" height="30" width="30" /></a>
 <a href="https://twitter.com/mehrdadlinux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/mehrdadlinux" height="30" width="30" /></a>
