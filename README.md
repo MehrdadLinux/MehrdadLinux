@@ -11,22 +11,15 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-
-- 🔭 I’m currently working on **AI in Security**
-
 - 👨‍💻 All of my projects are available at [http://blog.opsnit.com/](http://blog.opsnit.com/)
 
 - 📝 I regulary write articles on [http://blog.opsnit.com/](http://blog.opsnit.com/)
 
-- 💬 Ask me about **computer , AI , security**
-
 - 📫 How to reach me **mehrdadlinux@gmail.com**
-
-- 👯 I’m looking to collaborate on **AI Security Projects**
 
 - ⚡ Fun fact **Google**
 
-### i'm interested in: AI & Security  
+### i'm interested in: Security  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- ## 🚀 Languages and Tools: -->
 
